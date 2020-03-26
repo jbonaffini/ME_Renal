@@ -1,0 +1,30 @@
+Date		Time		Hours	Short Description
+09/09/2019	1:00-1:45PM	0.75	Meeting with Dr. Bowman to get signatures and discuss observation options
+09/09/2019	3:30-4:45PM	1.25	Carlton Anderson - discuss water treatment at dialysis unit
+09/11/2019	3:30-4:45PM	1.25	Pam Reynolds - training on dialysis machine
+09/13/2019	3:30-5:00PM	1.25	Pam Reynolds - information on vascular access, pros and cons
+09/17/2019	8:45-11:00AM	2.25	ICU rounds with Dr. Bowman and Dr. Anita
+09/18/2019	3:30-4:45PM	1.25	Pam Reynolds & Rose Warren (charge nurse) - discussion about dialysis unit
+~accumulated hours~		8.00
+09/25/2019	1:00-4:00PM	3.00	Dr. Emaad Rahman and Dr. Brent Portz in the Kidney Center Clinic
+09/26/2019	9:00AM-12:30PM	3.50	Lynne Hill, RN training a Home Hemodialysis patient + wife
+10/01/2019	6:00-8:00PM	2.00	Meetup with Jacob Wright, a UVA graduate and kidney transplant patient
+10/02/2019	10:00-11:00AM	1.00	Dr. Khan weekly Peritoneal Dialysis checkup 
+10/02/2019	12:30-3:45PM	3.25	Dr. Fritz Angle shadowing at Interventional Radiology
+10/09/2019	12:30-1:45PM	1.25	Dialysis Shadowing during busy hours
+~accumulated hours~		22.00
+10/10/2019	9:15AM-12:00PM	2.75	HHD Shadowing Lynne Hill, RN - followup with patient from prior visit
+10/11/2019	11:00AM-12:20PM	1.25	Whiteboarding with Dr. Bowman
+10/22/2019	9:45AM-2:45PM	5.00	HHD Check-ups with Dr. Rahman, followup with patient from prior visits
+10/23/2019	10:00AM-11:00AM	1.00	Telemedicine and PD checkups with Drs. Rosner and Khan
+10/24/2019	11:30AM-2:00PM	2.50	Home Hemo dialysis at Patient X's Home
+10/25/2019	12:30-1:45PM	1.00	Whiteboarding with Dr. Bowman
+~accumulated hours~		35.75
+11/06/2019	12:45-4:45PM	4.00	Dr. Fritz Angle shadowing at Interventional Radiology
+11/12/2019	8:00AM-1:00PM	5.00	Dr. Fritz Angle shadowing at Interventional Radiology
+11/14/2019	9:00-11:00AM	2.00	ICU rounds with Dr. Bowman and Dr. Oluwo
+11/15/2019	1:00-2:00PM	1.00	Whiteboarding with Dr. Bowman
+11/22/2019	11:30AM-12:15PM	0.75	Whiteboarding with Dr. Bowman
+~accumulated hours~		48.50
+TBA					Dr. Rahman shadowing at Kidney Center Clinic
+TBA					Transplant shadowing
